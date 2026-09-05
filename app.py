@@ -119,7 +119,7 @@ st.markdown(
 # HOME PAGE
 # =========================================================
 
-st.title("📊 Quality Engineering Toolkit")
+st.title("📊 Quality Stat")
 
 st.subheader(
     "Practical Statistical & Quality Engineering Tools"
@@ -144,7 +144,7 @@ st.header("What is this website?")
 
 st.write(
     """
-    The Quality Engineering Toolkit is being developed as
+    The Quality-stat is being developed as
     a collection of practical engineering tools that help
     convert quality data into meaningful engineering
     information.
